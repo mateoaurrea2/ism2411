@@ -43,6 +43,7 @@ Each commit is one change with a message that says exactly what it was. If I wer
 **2. How Git changes my approach**
 
 Before this module, I would've been nervous editing a script that already worked, because if I broke it I'd have to remember what I changed. Now I'd commit the working version first, so I can try things and always get back to something that runs. I also learned tonight to stick to one copy of my repo, after I accidentally ended up working in two folders at once.
+
 **3. Something I'd add to .gitignore**
 
 I'd add a `scratch/` folder where I test code and try things out before putting them in a real lab file. It's just my own messy practice work, so it doesn't belong in the repo, and anyone looking at it would only see clutter instead of my finished assignments.
