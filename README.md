@@ -4,7 +4,7 @@
 
 **Semester:** Fall 2026
 
-**Instructor:** [Instructor Name]
+**Instructor:** Markum Reed
 
 ## About This Repo
 
